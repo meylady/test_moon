@@ -1,0 +1,23 @@
+.wrap {
+	width: 500px;
+	margin: 0 auto;
+}
+.btn-holder {
+	text-align: center;
+	margin: 10px 0 10px 0;
+}
+#calendar table {
+	border-collapse: collapse;
+	text-align: center;
+}
+
+#showtable table td {
+	text-align: center;
+}
+
+#showtable table td.sun {
+	color: red;
+}
+#showtable  table td.sat {
+	color: blue;
+}
